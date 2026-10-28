@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# données (à télécharger, voir donnees/LISEZMOI.md)
+donnees/*.csv
+# sorties des simulations
+*.csv
